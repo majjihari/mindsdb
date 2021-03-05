@@ -11,7 +11,6 @@ my_model.zip
 model.py
 tests/integration_tests/flows/model.py
 tests/integration_tests/flows/my_model.zip
-.vscode
 distributions/docker-compose/*/storage
 venv/*
 root
@@ -19,3 +18,5 @@ static
 tmp
 .pytest_cache
 tests/prediction_latency_test/*.csv
+config.bat
+node_modules
